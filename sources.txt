@@ -1,0 +1,2 @@
+states.json: https://upload.wikimedia.org/wikipedia/commons/d/d9/Hydrogenglow.jpg
+elements.json: https://github.com/Bowserinator/Periodic-Table-JSON
